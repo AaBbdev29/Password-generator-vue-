@@ -1,0 +1,25 @@
+.wrapper{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:#292929;
+    color: #ededed;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+.gen-form{
+    background-color: #3c3c3c;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 500px;
+}
+.values{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 60px;
+}
